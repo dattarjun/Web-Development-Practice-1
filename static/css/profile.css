@@ -1,0 +1,35 @@
+/* profile.css */
+
+.profile-header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.profile-header h2 {
+    font-size: 2rem;
+    color: #007bff;
+}
+
+.profile-posts, .profile-comments, .profile-votes {
+    margin-bottom: 30px;
+}
+
+.profile-posts h3, .profile-comments h3, .profile-votes h3 {
+    color: #343a40;
+}
+
+.profile-section {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.profile-section h4 {
+    color: #007bff;
+}
+
+.profile-section p {
+    color: #555;
+}

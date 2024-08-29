@@ -1,0 +1,39 @@
+/* post_detail.css */
+
+.post-header {
+    margin-bottom: 20px;
+}
+
+.post-title {
+    font-size: 2rem;
+    color: #007bff;
+}
+
+.comment-section {
+    margin-top: 40px;
+}
+
+.comment-box {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: #f1f1f1;
+    padding: 15px;
+}
+
+.vote-buttons {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.vote-buttons button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.vote-buttons button:hover {
+    background-color: #0056b3;
+}

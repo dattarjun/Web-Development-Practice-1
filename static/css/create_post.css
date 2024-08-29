@@ -1,0 +1,23 @@
+/* create_post.css */
+
+.form-control {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+.form-control:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.btn-create-post {
+    background-color: #28a745;
+    border-color: #28a745;
+    transition: background-color 0.3s ease;
+}
+
+.btn-create-post:hover {
+    background-color: #218838;
+    border-color: #218838;
+}

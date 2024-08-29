@@ -1,0 +1,29 @@
+/* community.css */
+
+.posts-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.posts-list li {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.posts-list li:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.posts-list .post-title {
+    font-size: 1.5rem;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.posts-list .post-title:hover {
+    text-decoration: underline;
+}
