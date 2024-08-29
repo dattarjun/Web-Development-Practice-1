@@ -1,6 +1,5 @@
-Flask
-mysql-connector-python
-bcrypt
-
-install these dependencies by running on your terminal:
-pip install -r requirements.txt
+Flask==2.3.2
+mysql-connector-python==8.1.0
+Flask-Bcrypt==1.0.1
+bcrypt==4.0.1
+Flask-MySQLdb==1.0.1
